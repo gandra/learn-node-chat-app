@@ -1,0 +1,19 @@
+cd ~/opt/mongo/bin/
+./mongod --dbpath ~/opt/mongo-data
+
+~/opt/mongo/bin/mongod --dbpath ~/opt/mongo-data
+
+==========================================
+heroku login
+dragan.mijatovic@cramick-it.com/!Tehno1234!
+
+heroku create
+git push heroku master
+heroku open
+
+heroku addons:create mongolab:sandbox
+
+=========================================
+
+jest expect
+
