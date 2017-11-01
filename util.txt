@@ -17,3 +17,10 @@ heroku addons:create mongolab:sandbox
 
 jest expect
 
+=========================================
+
+http://localhost:3000/socket.io/socket.io.js
+
+
+
+
