@@ -14,8 +14,10 @@ heroku open
 heroku addons:create mongolab:sandbox
 
 =========================================
+npm i expect mocha --save-dev
+npm i nodemon --save-dev
 
-jest expect
+https://facebook.github.io/jest/docs/en/expect.html
 
 =========================================
 
